@@ -1,3 +1,7 @@
+You can either create a .zip file your self or just use the ones I included in this repo.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*--*-*-*-*-*-*-*-*-*-*-
+
 To create a file usable to flash the firmware onto a Spike/RI hub you will have to 
 1. download the file I provided in this repository.
 2. get a firmware .bin file from this repo:
